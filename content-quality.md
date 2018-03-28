@@ -34,4 +34,11 @@ Please use the formatting bar (especially the `code` option) to present your pos
 
 
   [1]: http://i66.tinypic.com/33kdnjt.png
+  
+IBB.CO IMAGE NOT EMBEDDED PROPERLY
+----
+
+Hello <uname>,
+ 
+The link you’ve added points to the page that contains the image, not the image itself. On ibb.co site, scroll down and look for a tab that says `Embed codes`. Click on this `Embed codes` tab. Copy the code in the `HTML full image` box. Post that line into your post here (instead of the link you've used) to parse the image in automatically.
 
