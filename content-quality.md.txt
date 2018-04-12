@@ -7,7 +7,7 @@ NO DETAILS IN POST
 
 Hello <uname>,
 
-You've stated that you want to do X. Have you tried? Have you read papers on the subject? Have you put any effort into thinking about this? The answer to these should be "yes", and you should elaborate a bit on: 
+You've stated that you want to do <X>. Have you tried? Have you read papers on the subject? Have you put any effort into thinking about this? The answer to these should be "yes", and you should elaborate a bit on: 
  - what your actual goals are
  - what you've tried so far
  - why that is or isn't working; and
@@ -21,7 +21,7 @@ NO APPROPRIATE TAG
 
 Hello <uname>,
 
-Please use appropriate tags. Your question is about <sub_mat>. That should have been a tag when you created the question. When you add appropriate tags, users that follow the tag (usually experts interested in helping others in that subject matter) get notified of your question, and this means you stand a better chance at getting a relevant, useful response faster. 
+Please use appropriate tags. Your question is about <subject_matter>. That should have been a tag when you created the question. When you add appropriate tags, users that follow the tag (usually experts interested in helping others in that subject matter) get notified of your question, and this means you stand a better chance at getting a relevant, useful response faster. 
 
 
 POST NOT FORMATTED WELL:
@@ -38,7 +38,10 @@ Please use the formatting bar (especially the `code` option) to present your pos
 IBB.CO IMAGE NOT EMBEDDED PROPERLY
 ----
 
+NOTE: The template below might not be relevant soon. A new tutorial on how-to can be found [here](how-to/howto-add-image.md).
+
 Hello <uname>,
  
 The link you’ve added points to the page that contains the image, not the image itself. On ibb.co site, scroll down and look for a tab that says `Embed codes`. Click on this `Embed codes` tab. Copy the code in the `HTML full image` box. Post that line into your post here (instead of the link you've used) to parse the image in automatically.
+
 
