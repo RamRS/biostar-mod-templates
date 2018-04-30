@@ -29,11 +29,11 @@ POST NOT FORMATTED WELL:
 
 Hello <uname>,
 
-Please use the formatting bar (especially the `code` option) to present your post better. I've done it for you this time.
-![Formatting bar][1]
+Please use the formatting bar (especially the `code` option) to present your post better. I've done it for you this time. <br />
+<img src="https://image.ibb.co/fg0nMx/code_formatting.png" alt="code_formatting" border="0" width="400px">
 
+Thank you!
 
-  [1]: http://i66.tinypic.com/33kdnjt.png
   
 IBB.CO IMAGE NOT EMBEDDED PROPERLY
 ----
