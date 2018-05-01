@@ -14,3 +14,13 @@ If an answer was helpful, you should upvote it; if the answer resolved your ques
 Please do the same for your previous posts as well.
 
 [1]: http://i68.tinypic.com/2m2ykjr.png
+
+
+URGENCY TERMS IN POST
+----
+
+Hello <uname>,
+
+You've conveyed your urgency in your post, which should be avoided. Biostars, like most open science forums, is powered by volunteers who offer their time and expertise by volition and not by obligation. So, we cannot guarantee you an answer within a time period. We respond quickly, especially to questions posted on weekdays in the day, but this cannot be guaranteed. I think it’d be better to manage expectations and give a question 24-36 hours, within which you can be confident you’d get a response unless the topic is niche.
+
+I have removed the term conveying urgency from your post for the above reason. Thank you for understanding.
