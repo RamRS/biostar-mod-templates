@@ -9,7 +9,7 @@ Hi <uname>,
 This reply is better suited as a comment on <answerer>'s answer. Could you make the appropriate change please? That would involve the following steps:
 
  1. Copy the contents of your reply from this answer (you can <a href="https://www.biostars.org/p/edit/<post_id>/">edit this answer</a> (Ctrl/Cmd + click the link to open it in a new tab)</a> and do a `Select All` -> `Copy` there).
- 2. Click on `Add Comment` on <name>'s post here: <link>
+ 2. Click on `Add Comment` (see image below) on <name>'s post here: <link>
  3. Paste the copied text
  4. Click on the green `Add Comment` button
  5. Click on `moderate` back in your answer here: <link>
@@ -17,6 +17,8 @@ This reply is better suited as a comment on <answerer>'s answer. Could you make 
  7. Click on the blue `Submit` button.
 
 Thank you!
+
+![add-comment](https://i.ibb.co/j6BmJhk/Screen-Shot-2019-10-01-at-10-41-31.png)
 
 
 COMMENT-REPLY ADDED AS ANSWER
@@ -35,7 +37,6 @@ This reply is better suited as a reply to <answerer>'s comment. Could you make t
  7. Click on the blue `Submit` button.
 
 Thank you!
-
 
 ADDITIONAL DETAIL ADDED AS ANSWER
 ----
