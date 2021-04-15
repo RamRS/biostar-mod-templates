@@ -8,11 +8,7 @@ Hello <uname>,
 
 Don't forget to follow up on your threads. 
 
-If an answer was helpful, you should upvote it; if the answer resolved your question, you should mark it as accepted. You can accept more than one if they work.
-![Upvote|Bookmark|Accept][1]
-
-[1]: https://image.ibb.co/dfsqrx/upvote_accept_bookmark.png
-
+If an answer was helpful, you should upvote it; if the answer resolved your question, you should mark it as accepted. You can accept more than one if they work. <br /><img src="https://i.ibb.co/M8TCL9c/Upvote-Bookmark-Accept.png" alt="upvote_bookmark_accept" border="0" width="400px">
 
 URGENCY TERMS IN POST
 ----
